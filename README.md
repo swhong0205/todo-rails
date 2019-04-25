@@ -6,13 +6,13 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+2.4.6
 * System dependencies
-
+mac
 * Configuration
 
 * Database creation
-
+default sqlite
 * Database initialization
 
 * How to run the test suite
@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # todo-rails
+https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
