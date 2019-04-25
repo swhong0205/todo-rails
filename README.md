@@ -24,3 +24,5 @@ default sqlite
 * ...
 # todo-rails
 https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
+
+https://www.railstutorial.org/book/static_pages#cha-static_pages
